@@ -3080,3 +3080,5 @@ body {
   .navbar-nav > li{
       text-align: center !important;
   }
+.btn{
+	align-self: center;}
